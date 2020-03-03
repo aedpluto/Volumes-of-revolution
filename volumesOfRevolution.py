@@ -4,7 +4,6 @@ Program to do 3D Modelling
 """
 
 import matplotlib.pyplot as plt
-import numpy as np
 import mpl_toolkits.mplot3d.art3d as art3d
 from matplotlib.patches import Circle
 
